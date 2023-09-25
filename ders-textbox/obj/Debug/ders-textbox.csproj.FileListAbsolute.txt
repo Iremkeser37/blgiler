@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ders-textbox\ders-textbox\bin\Debug\ders-textbox.exe.config
+C:\Users\User\source\repos\ders-textbox\ders-textbox\bin\Debug\ders-textbox.exe
+C:\Users\User\source\repos\ders-textbox\ders-textbox\bin\Debug\ders-textbox.pdb
+C:\Users\User\source\repos\ders-textbox\ders-textbox\obj\Debug\ders-textbox.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ders-textbox\ders-textbox\obj\Debug\ders-textbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ders-textbox\ders-textbox\obj\Debug\ders_textbox.Form1.resources
+C:\Users\User\source\repos\ders-textbox\ders-textbox\obj\Debug\ders_textbox.Properties.Resources.resources
+C:\Users\User\source\repos\ders-textbox\ders-textbox\obj\Debug\ders-textbox.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ders-textbox\ders-textbox\obj\Debug\ders-textbox.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ders-textbox\ders-textbox\obj\Debug\ders-textbox.exe
+C:\Users\User\source\repos\ders-textbox\ders-textbox\obj\Debug\ders-textbox.pdb

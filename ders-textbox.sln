@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders-textbox", "ders-textbox\ders-textbox.csproj", "{CC0DE79B-EBA2-43BF-B088-25763685B583}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC0DE79B-EBA2-43BF-B088-25763685B583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC0DE79B-EBA2-43BF-B088-25763685B583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC0DE79B-EBA2-43BF-B088-25763685B583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC0DE79B-EBA2-43BF-B088-25763685B583}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B99EF0E-4256-4285-A223-56DF8A10CFAD}
+	EndGlobalSection
+EndGlobal
